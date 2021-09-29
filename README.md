@@ -1,5 +1,7 @@
 只为phicomm k2 psg1218 加上ssr plus 自用，
-不需要 PPP，不需要 IPv6
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+尝试删掉一些东西，把firmware做得小一点
 
 ssr plus 来自 
 https://github.com/kenzok8/openwrt-packages
