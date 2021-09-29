@@ -34,11 +34,8 @@ endif
 # For the basic set
 DEFAULT_PACKAGES.basic:=
 # For nas targets
-DEFAULT_PACKAGES.nas:=\
-	block-mount \
-	fdisk \
-	lsblk \
-	mdadm
+DEFAULT_PACKAGES.nas:=
+
 # For router targets
 DEFAULT_PACKAGES.router:=\
 	dnsmasq-full \
