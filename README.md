@@ -1,3 +1,12 @@
+只为phicomm k2 psg1218 加上ssr plus 自用，
+不需要 PPP，不需要 IPv6
+
+ssr plus 来自 
+https://github.com/kenzok8/openwrt-packages
+
+
+下面是大佬的原话
+
 欢迎来到Lean的Openwrt源码仓库！
 =
 
