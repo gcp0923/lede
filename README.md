@@ -1,3 +1,10 @@
+src-git kenzo https://github.com/gcp0923/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git packages https://github.com/gcp0923/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
+
 只为phicomm k2 psg1218 加上ssr plus 自用，
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
