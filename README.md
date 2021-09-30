@@ -6,6 +6,10 @@ src-git small https://github.com/kenzok8/small
 ssr plus 来自 
 https://github.com/kenzok8/openwrt-packages
 
+ssr plus 中的 sslibev 不能安装fork来看看
+https://github.com/gcp0923/openwrt-packages 
+
+
 
 下面是大佬的原话
 
